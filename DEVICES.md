@@ -67,6 +67,7 @@
 - Kogan tower heater - KASTHFP2KWA model
 - Kogan panel heaters - KAHTP, KAWFHTP, KASMGPH models
 - Konyks eCosy Pilot wire heating controller
+- Könighaus WFH-450W3 infrared panel heater
 - Lebenlang LBL0380 heater
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
